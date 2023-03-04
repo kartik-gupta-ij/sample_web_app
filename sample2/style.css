@@ -1,0 +1,36 @@
+/* Override default styles */
+body {
+  background-color: #f8f9fa;
+}
+
+/* Style the header */
+header {
+  margin-bottom: 2rem;
+}
+
+/* Style the hello-world component */
+hello-world {
+  padding: 1rem;
+}
+
+/* Style the my-sidebar component */
+my-sidebar {
+  padding: 1rem;
+}
+
+/* Style the footer */
+footer {
+  margin-top: 2rem;
+}
+
+/* Custom styles */
+.card {
+  border-radius: 0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.list-group-item {
+  background-color: transparent;
+  border: none;
+  border-radius: 0;
+}
